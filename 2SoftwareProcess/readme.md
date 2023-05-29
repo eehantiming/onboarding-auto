@@ -1,12 +1,12 @@
 # 1 Software Processes
 
-## References
+## :books:References
 These references includes a summary of the standard and processes that we follow. You are advised to read through them and keep them open for reference while you do the exercise below!
 - [code style, documentation formatting and linting](https://docs.google.com/presentation/d/1s5OS6b6kQ83EU2iYVCLPhq7gHHNFOWg7DXT5bakBKeU/edit#slide=id.g1f87997393_0_821)
 - [branch naming and commit messages](https://docs.google.com/presentation/d/1S6sMdqZmdkorfARPkfrUxhbQxjElKLJbIeoOQdtbVT0/edit#slide=id.g1a7b4692594_0_0)
 - [ros2 tutorial](https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html)
 
-## Exercise
+## :running:Exercise
 - You are to complete a simple exercise to familiarize with our software process. A dockerized environment runs ros2 and turtlesim. The general outcome of the simulation is to have the player turtle touch friendly turtles while avoiding enemy turtles. You will add code/features towards this.
 - Keep in mind that the point of this exercise is to learn the process, practice reading and understanding code, design thinking, and not to complete the project (this is not a test).
 - This project will be ongoing and future developers will continue adding features to expand on it.  
@@ -22,9 +22,9 @@ These references includes a summary of the standard and processes that we follow
 1. Commit your changes and push your code to github.
 1. Start a pull request to the 'dev' branch and request for review from one of the senior devs.
 1. Once the PR has been approved, perform a merge and delete the branch that you created.
-1. You are done!
+1. You are done! :clap:
 
-### Tasklist
+### :page_with_curl:Tasklist
 - [x] create base package
 - [ ] function to spawn turtle at given location. (Call 'spawn' service) 
 - [ ] function to randomly spawn turtles but not near player
@@ -34,7 +34,7 @@ These references includes a summary of the standard and processes that we follow
 - [ ] scoring system  
 *add on...*
 ---
-## Save the turtles
+## :turtle:Save the turtles
 ### Summary
 Save friendly turtles by touching them with the player turtle while avoiding enemy turtles.
 ### Quick start
