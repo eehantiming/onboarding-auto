@@ -6,5 +6,5 @@
 1. (Optional) Install [ROS2](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
 
 ## :helicopter:Run the UAV stack
-1. Our [UAV exploration stack](https://github.com/DinoHub/DinoFly/tree/development) is maintained on github. Follow the instructions in that repo and try running it with rosbag and/or Airsim simulation. Come back here when you are done. Let us know if you have any problems/questions!
+1. Our [UAV exploration stack](https://github.com/DinoHub/DinoFly/blob/enhancement-readme/readme_wip.md#running-with-rosbag) is maintained on github. Follow the instructions in that repo and try running it with rosbag and/or Airsim simulation. Come back here when you are done. Let us know if you have any problems/questions!
 1. Check out the UAV payload, including sensors and comms hardware in office!
